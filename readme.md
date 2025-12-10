@@ -37,14 +37,3 @@ Ambos jugadores pueden moverse de izquierda a derecha y saltar para ganar ventaj
 Empuja al oponente fuera del escenario para ganar la partida.
 
 
-
-## Instalación
-
-
-
-1. Clona el repositorio:
-
-&nbsp;  ```bash
-
-&nbsp;  git clone <URL\_DEL\_REPOSITORIO>
-
