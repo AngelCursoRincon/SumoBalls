@@ -1,4 +1,4 @@
-\# SumoBalls
+# SumoBalls
 
 
 
@@ -6,11 +6,11 @@ SumoBalls es un juego competitivo local para dos jugadores donde cada jugador co
 
 
 
-\## Cómo jugar
+## Cómo jugar
 
 
 
-\- \*\*Jugador 1\*\*
+- **Jugador 1**
 
 &nbsp; - Moverse: `W A S D`
 
@@ -18,7 +18,7 @@ SumoBalls es un juego competitivo local para dos jugadores donde cada jugador co
 
 
 
-\- \*\*Jugador 2\*\*
+- **Jugador 2**
 
 &nbsp; - Moverse: Flechas del teclado
 
@@ -30,7 +30,7 @@ Ambos jugadores pueden moverse de izquierda a derecha y saltar para ganar ventaj
 
 
 
-\## Objetivo
+## Objetivo
 
 
 
@@ -38,25 +38,11 @@ Empuja al oponente fuera del escenario para ganar la partida.
 
 
 
-\## Controles
+## Instalación
 
 
 
-| Jugador | Movimiento | Saltar |
-
-|--------|------------|--------|
-
-| J1     | W A S D    | W      |
-
-| J2     | Flechas    | ↑      |
-
-
-
-\## Instalación
-
-
-
-1\. Clona el repositorio:
+1. Clona el repositorio:
 
 &nbsp;  ```bash
 
